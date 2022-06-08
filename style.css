@@ -34,7 +34,7 @@ h1
   transform: scale(1.1);
 }
 hr{
-  
+  background-color:rgba(212, 86, 59 , 1.0);
   border-width: 10px;
   max-width: 200px;
   position: relative; 
@@ -45,6 +45,6 @@ hr{
 }
 .bruh{
   position: relative; 
-  top: 180px;
+  top: 340px;
 
 }
